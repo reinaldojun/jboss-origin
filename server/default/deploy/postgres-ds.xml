@@ -31,7 +31,7 @@
 
   	<local-tx-datasource>   	
 		<jndi-name>PostgresGerencialDS</jndi-name>
-		<connection-url>jdbc:postgresql://10.20.100.38/gerencial</connection-url>
+		<connection-url>jdbc:postgresql://0.0.0.0/gerencial</connection-url>
 		<driver-class>org.postgresql.Driver</driver-class> 
   		<user-name>pamela</user-name> 
 		<password>pamela</password>
